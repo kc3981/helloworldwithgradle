@@ -5,6 +5,10 @@ package com.kc3981.helloworld;
  */
 public class Library {
     public boolean someLibraryMethod() {
+    	
+    	String testingUsedVar;
+    	
+    	
         return true;
     }
 }
